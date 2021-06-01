@@ -1,0 +1,9 @@
+{
+    "name": "ma/03_good",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+body {
+    padding: 50px;
+}
+
+.thumb-image {
+    width: 50px;
+    height: 100;
+}
+
+.update-image {
+    width: 120px;
+}
